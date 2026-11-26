@@ -1,0 +1,16 @@
+export const colors = {
+  cream: '#F4EAE1',
+  surface: '#FBF7F2',
+  ink: '#45261D',
+  primary: '#553127',
+  muted: '#805340',
+  placeholder: '#77706C',
+  border: '#E8CFC0',
+  focus: '#DD9E76',
+  peach: '#F3D4C2',
+  dark: '#452215',
+  darkTop: '#644133',
+  darkBottom: '#4D2B21',
+  onDark: '#FFF7F0',
+  error: '#9B2F23',
+};
